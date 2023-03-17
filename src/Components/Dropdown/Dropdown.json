@@ -1,0 +1,27 @@
+[
+  {
+    "name": "장바구니",
+    "link": "/",
+    "icon": "https://www.apple.com/ac/globalnav/7/en_US/assets/ac-store/bag.svg"
+  },
+  {
+    "name": "주문",
+    "link": "/",
+    "icon": "https://www.apple.com/ac/globalnav/7/en_US/assets/ac-store/orders.svg"
+  },
+  {
+    "name": "관심 목록",
+    "link": "/",
+    "icon": "https://www.apple.com/ac/globalnav/7/en_US/assets/ac-store/savedbyyou.svg"
+  },
+  {
+    "name": "계정",
+    "link": "/",
+    "icon": "https://www.apple.com/ac/globalnav/7/en_US/assets/ac-store/account.svg"
+  },
+  {
+    "name": "로그인",
+    "link": "/",
+    "icon": "https://www.apple.com/ac/globalnav/7/en_US/assets/ac-store/signIn.svg"
+  }
+]

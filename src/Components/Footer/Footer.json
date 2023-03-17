@@ -1,0 +1,70 @@
+{
+  "text": "* 이 페이지는 Apple의 공식 홈페이지가 아니며, 학습을 위해 만들어진 클론입니다.",
+  "data": {
+    "a": [
+      "스토어",
+      "Mac",
+      "iPad",
+      "iPhone",
+      "Watch",
+      "AirPods",
+      "TV 및 홈",
+      "AirTag",
+      "액세서리"
+    ],
+    "b": [
+      "지갑"
+    ],
+    "c": [
+      "Apple ID 관리",
+      "Apple Store 계정",
+      "iCloud.com"
+    ],
+    "d": [
+      "Apple One",
+      "Apple TV+",
+      "Apple Music",
+      "Apple Arcade",
+      "Apple Podcasts",
+      "Apple Books",
+      "App Store"
+    ],
+    "e": [
+      "매장 찾기",
+      "Genius Bar",
+      "Today at Apple",
+      "Apple 캠프",
+      "Apple Store 앱",
+      "인증 리퍼비쉬 제품",
+      "금융 혜택",
+      "Apple Trade In",
+      "주문 상태",
+      "쇼핑 도움말"
+    ],
+    "f": [
+      "Apple과 비즈니스",
+      "비즈니스를 위한 제품 쇼핑하기"
+    ],
+    "g": [
+      "Apple과 교육",
+      "초중고용 제품 쇼핑하기",
+      "대학 생활을 위한 제품 쇼핑하기"
+    ],
+    "h": [
+      "손쉬운 사용",
+      "교육",
+      "환경",
+      "개인정보 보호",
+      "협력업체에 대한 책임"
+    ],
+    "i": [
+      "Newsroom",
+      "Apple 리더십",
+      "채용 안내",
+      "윤리 및 규정 준수",
+      "이벤트",
+      "일자리 창출",
+      "Apple 연락처"
+    ]
+  }
+}

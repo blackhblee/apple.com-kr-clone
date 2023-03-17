@@ -1,0 +1,32 @@
+.footer-item {
+    padding: 0rem;
+    min-width: 90px;
+}
+
+.footer-item h4 {
+    margin-top: 0;
+    margin-bottom: -1.2rem;
+    font-size: 11px;
+    line-height: 3rem;
+    font-weight: 600;
+    color: #1d1d1f;
+}
+
+.footer-item ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.footer-item ul li {
+    margin-bottom: 0.8rem;
+}
+
+.footer-item a {
+    text-decoration: none;
+    color: #424245;
+    font-size: 11px;
+}
+
+.footer-item a:hover {
+    text-decoration: underline;
+}

@@ -1,0 +1,176 @@
+{
+  "full": [
+    {
+      "backgroundImg": "https://www.apple.com/v/home/ay/images/heroes/iphone-14/hero_iphone14_yellow_preorder__9y5sfdg5m5eu_largetall_2x.jpg",
+      "backgroundImgMedium": "https://www.apple.com/v/home/ay/images/heroes/iphone-14/hero_iphone14_yellow_preorder__9y5sfdg5m5eu_mediumtall_2x.jpg",
+      "backgroundImgSmall": "https://www.apple.com/v/home/ay/images/heroes/iphone-14/hero_iphone14_yellow_preorder__9y5sfdg5m5eu_small_2x.jpg",
+      "heading": "iPhone 14",
+      "subHeading": "기대를 뛰어넘는 배터리 성능.\n두 가지 매력적인 사이즈. 새롭게 옐로 등장.",
+      "info": "3월 10일 옐로 사전 주문\n3월 14일 출시",
+      "contentPos": "top",
+      "contentPosSmall": "top",
+      "links": [
+        {
+          "name": "더 알아보기",
+          "href": "#"
+        },
+        {
+          "name": "쇼핑하기",
+          "href": "#"
+        }
+      ]
+    },
+    {
+      "backgroundImg": "https://www.apple.com/kr/home/ay/images/heroes/iphone-14-pro/hero_iphone14pro_spring__9xo85pm6sbmm_largetall_2x.jpg",
+      "backgroundImgMedium": "https://www.apple.com/kr/home/ay/images/heroes/iphone-14-pro/hero_iphone14pro_spring__9xo85pm6sbmm_mediumtall_2x.jpg",
+      "backgroundImgSmall": "https://www.apple.com/kr/home/ay/images/heroes/iphone-14-pro/hero_iphone14pro_spring__9xo85pm6sbmm_small_2x.jpg",
+      "heading": "iPhone 14 Pro",
+      "contentPos": "top",
+      "color": "white",
+      "subHeading": "프로 그 이상.",
+      "links": [
+        {
+          "name": "더 알아보기",
+          "href": "#"
+        },
+        {
+          "name": "구입하기",
+          "href": "#"
+        }
+      ]
+    },
+    {
+      "backgroundImg": "https://www.apple.com/kr/home/ay/images/heroes/apple-watch-series-8/hero_apple_watch_series_8_spring__b1y8wb7xjc9y_largetall_2x.jpg",
+      "backgroundImgMedium": "https://www.apple.com/kr/home/ay/images/heroes/apple-watch-series-8/hero_apple_watch_series_8_spring__b1y8wb7xjc9y_mediumtall_2x.jpg",
+      "backgroundImgSmall": "https://www.apple.com/kr/home/ay/images/heroes/apple-watch-series-8/hero_apple_watch_series_8_spring__b1y8wb7xjc9y_small_2x.jpg",
+      "logo": "https://www.apple.com/v/home/at/images/logos/apple-watch-series-8/promo_logo_apple_watch_series_8__ee6riplsucuq_large_2x.png",
+      "subHeading": "건강하게 앞서 나아가다.",
+      "contentPos": "top",
+      "color": "white",
+      "links": [
+        {
+          "name": "더 알아보기",
+          "href": "#"
+        },
+        {
+          "name": "구입하기",
+          "href": "#"
+        }
+      ]
+    }
+  ],
+  "half": [
+    {
+      "backgroundImg": "https://www.apple.com/v/home/ay/images/promos/ipad/promo_ipad__fioegapg12qi_large_2x.jpg",
+      "backgroundImgMedium": "https://www.apple.com/v/home/ay/images/promos/ipad/promo_ipad__fioegapg12qi_medium_2x.jpg",
+      "backgroundImgSmall": "https://www.apple.com/v/home/ay/images/promos/ipad/promo_ipad__fioegapg12qi_small_2x.jpg",
+      "heading": "iPad",
+      "subHeading": "쓰다. 그리다. 빠져들다.",
+      "contentPos": "top",
+      "links": [
+        {
+          "name": "더 알아보기",
+          "href": "#"
+        },
+        {
+          "name": "구입하기",
+          "href": "#"
+        }
+      ]
+    },
+    {
+      "backgroundImg": "https://www.apple.com/v/home/ay/images/promos/macbook-pro-14-and-16/promo_mbp__ek7p477bkp6q_large_2x.jpg",
+      "backgroundImgMedium": "https://www.apple.com/v/home/ay/images/promos/macbook-pro-14-and-16/promo_mbp__ek7p477bkp6q_medium_2x.jpg",
+      "backgroundImgSmall": "https://www.apple.com/v/home/ay/images/promos/macbook-pro-14-and-16/promo_mbp__ek7p477bkp6q_small_2x.jpg",
+      "heading": "MacBook Pro",
+      "subHeading": "막강한 성능의 M2 Pro 또는 M2 Max 칩 탑재.",
+      "contentPos": "top",
+      "color": "white",
+      "links": [
+        {
+          "name": "더 알아보기",
+          "href": "#"
+        },
+        {
+          "name": "지금 주문하기",
+          "href": "#"
+        }
+      ]
+    },
+    {
+      "backgroundImg": "https://www.apple.com/v/home/ay/images/promos/airpods-pro/promo_airpods_pro_avail__gaxggskofx6y_large_2x.jpg",
+      "backgroundImgMedium": "https://www.apple.com/v/home/ay/images/promos/airpods-pro/promo_airpods_pro_avail__gaxggskofx6y_medium_2x.jpg",
+      "backgroundImgSmall": "https://www.apple.com/v/home/ay/images/promos/airpods-pro/promo_airpods_pro_avail__gaxggskofx6y_small_2x.jpg",
+      "heading": "AirPods Pro",
+      "color": "white",
+      "subHeading": "듣는다는 것을 다시 생각하다.",
+      "contentPos": "top",
+      "links": [
+        {
+          "name": "더 알아보기",
+          "href": "#"
+        },
+        {
+          "name": "구입하기",
+          "href": "#"
+        }
+      ]
+    },
+    {
+      "backgroundImg": "https://www.apple.com/v/home/ay/images/promos/macbook-air/promo_macbookair__fywl7i82fueu_large_2x.png",
+      "backgroundImgMedium": "https://www.apple.com/v/home/ay/images/promos/macbook-air/promo_macbookair__fywl7i82fueu_medium_2x.png",
+      "backgroundImgSmall": "https://www.apple.com/v/home/ay/images/promos/macbook-air/promo_macbookair__fywl7i82fueu_small_2x.png",
+      "heading": "MacBook Air",
+      "subHeading": " ",
+      "subHeadingImg": "https://www.apple.com/v/home/ay/images/logos/macbook-air/logo_promo_macbookair__hy9ktdqqtv2a_large_2x.png",
+      "contentPos": "top",
+      "links": [
+        {
+          "name": "더 알아보기",
+          "href": "구입하기"
+        },
+        {
+          "name": "구입하기",
+          "href": "#"
+        }
+      ]
+    },
+    {
+      "backgroundImg": "https://www.apple.com/v/home/ay/images/promos/imac/promo_imac__crg641tip4q6_large_2x.jpg",
+      "backgroundImgMedium": "https://www.apple.com/v/home/ay/images/promos/imac/promo_imac__crg641tip4q6_medium_2x.jpg",
+      "backgroundImgSmall": "https://www.apple.com/v/home/ay/images/promos/imac/promo_imac__crg641tip4q6_small_2x.jpg",
+      "heading": "iMac",
+      "subHeading": "이제 새롭게 만날 시간.",
+      "contentPos": "top",
+      "links": [
+        {
+          "name": "더 알아보기",
+          "href": "#"
+        },
+        {
+          "name": "구입하기",
+          "href": "#"
+        }
+      ]
+    },
+    {
+      "backgroundImg": "https://www.apple.com/v/home/ay/images/promos/mac-mini/promo_macmini__fg9smqdnyjmi_large_2x.jpg",
+      "backgroundImgMedium": "https://www.apple.com/v/home/ay/images/promos/mac-mini/promo_macmini__fg9smqdnyjmi_medium_2x.jpg",
+      "backgroundImgSmall": "https://www.apple.com/v/home/ay/images/promos/mac-mini/promo_macmini__fg9smqdnyjmi_small_2x.jpg",
+      "heading": "Mac mini",
+      "subHeading": "막강한 성능의 M2 또는 M2 Pro 칩 탑재.",
+      "color": "white",
+      "contentPos": "top",
+      "links": [
+        {
+          "name": "더 알아보기",
+          "href": "#"
+        },
+        {
+          "name": "지금 주문하기",
+          "href": "#"
+        }
+      ]
+    }
+  ]
+}
