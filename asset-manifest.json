@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/apple.com-kr-clone/static/css/main.031dba89.css",
-    "main.js": "/apple.com-kr-clone/static/js/main.0aa5bf08.js",
+    "main.css": "/apple.com-kr-clone/static/css/main.a8d7c52a.css",
+    "main.js": "/apple.com-kr-clone/static/js/main.448d9b63.js",
     "static/media/apple-icon.svg": "/apple.com-kr-clone/static/media/apple-icon.f59ab48479bd2e7786e81332bc296624.svg",
     "index.html": "/apple.com-kr-clone/index.html",
     "static/media/bag-icon.svg": "/apple.com-kr-clone/static/media/bag-icon.647937bbe1c79e2213f100a18e1fedbb.svg",
     "static/media/search-icon.svg": "/apple.com-kr-clone/static/media/search-icon.e0b696f327468be32ac4c5e19adcf6ce.svg",
     "static/media/angle-right-icon.svg": "/apple.com-kr-clone/static/media/angle-right-icon.41c84a9e390c45d10184131e3d4656a5.svg",
     "static/media/close-icon.svg": "/apple.com-kr-clone/static/media/close-icon.f1ef6e7ef03c9a74760c0ba26f3ede4d.svg",
-    "main.031dba89.css.map": "/apple.com-kr-clone/static/css/main.031dba89.css.map",
-    "main.0aa5bf08.js.map": "/apple.com-kr-clone/static/js/main.0aa5bf08.js.map"
+    "main.a8d7c52a.css.map": "/apple.com-kr-clone/static/css/main.a8d7c52a.css.map",
+    "main.448d9b63.js.map": "/apple.com-kr-clone/static/js/main.448d9b63.js.map"
   },
   "entrypoints": [
-    "static/css/main.031dba89.css",
-    "static/js/main.0aa5bf08.js"
+    "static/css/main.a8d7c52a.css",
+    "static/js/main.448d9b63.js"
   ]
 }
