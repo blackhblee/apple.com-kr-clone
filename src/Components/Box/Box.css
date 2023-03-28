@@ -1,7 +1,7 @@
 .box,
 .box-half {
     position: relative;
-    height: 700px;
+    height: 600px;
 }
 
 .box-half {
@@ -16,7 +16,7 @@
 .box-content-logo,
 .box-content-logo-half {
     object-fit: contain;
-    width: 140px;
+    height: 50px;
     margin-bottom: 1rem;
 }
 
@@ -51,8 +51,8 @@
 
 .box-content-heading,
 .box-content-heading-half {
-    font-size: 3.45rem;
-    font-weight: 600;
+    font-size: 3.0rem;
+    font-weight: 700;
     margin-bottom: 0.6rem;
 }
 
@@ -63,10 +63,10 @@
 
 .box-content-subHeading,
 .box-content-subHeading-half {
-    font-size: 1.62rem;
+    font-size: 1.4rem;
     line-height: 1.3;
     letter-spacing: 0.004em;
-    font-weight: 400;
+    font-weight: 500;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -85,7 +85,7 @@
 }
 
 .box-content .box-content-subHeading-half {
-    font-size: 1.3rem;
+    font-size: 1.4rem;
     max-width: 300px;
     margin-left: auto;
     margin-right: auto;
@@ -93,7 +93,7 @@
 
 .box-content-info,
 .box-content-info-half {
-    font-size: 1.25rem;
+    font-size: 1.2rem;
     line-height: 1.2;
     color: #6e6e73;
     font-weight: 400;
@@ -102,12 +102,12 @@
 }
 
 .box-content .box-content-info-half {
-    font-size: 1.1rem;
+    font-size: 1.2rem;
     margin: 1rem 0;
 }
 
 .box-content-links {
-    font-size: 1.25rem;
+    font-size: 1.1rem;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -164,11 +164,11 @@
     }
 
     .box-content .box-content-subHeading {
-        font-size: 1.6rem;
+        font-size: 1.4rem;
     }
 
     .box-content .box-content-subHeading-half {
-        font-size: 1.3rem;
+        font-size: 1.2rem;
     }
 }
 
@@ -178,11 +178,11 @@
     }
 
     .box-content .box-content-logo {
-        width: 120px;
+        height: 35px;
     }
 
     .box-content .box-content-logo-half {
-        width: 100px;
+        height: 35px;
     }
 
     .box {
@@ -193,30 +193,24 @@
         height: 500px;
     }
 
-    .box-content .box-content-subHeading {
-        font-size: 1.6rem;
-    }
-
-    .box-content .box-content-subHeading-half {
-        font-size: 1.26rem;
-    }
-
     .box-content .box-content-heading {
         font-size: 2.4rem;
     }
 
     .box-content .box-content-heading-half {
-        font-size: 2rem;
+        font-size: 2.3rem;
+    }
+
+    .box-content .box-content-subHeading {
+        font-size: 1.4rem;
+    }
+
+    .box-content .box-content-subHeading-half {
+        font-size: 1.2rem;
     }
 }
 
 @media screen and (max-width: 680px) {
-
-    .box-content .box-content-subHeading,
-    .box-content .box-content-subHeading-half {
-        font-size: 1.4rem;
-    }
-
     .box,
     .box-half {
         height: 480px;
@@ -224,17 +218,22 @@
 
     .box-content .box-content-heading,
     .box-content .box-content-heading-half {
-        font-size: 2.1rem;
+        font-size: 2.3rem;
+    }
+
+    .box-content .box-content-subHeading,
+    .box-content .box-content-subHeading-half {
+        font-size: 1.2rem;
     }
 
     .box-content .box-content-links,
     .box-content .box-content .links-half {
-        font-size: 1.2rem;
+        font-size: 1.1rem;
     }
 
     .box-content .box-content-info,
     .box-content .box-content-info-half {
-        font-size: 1.2rem;
+        font-size: 1.1rem;
         margin: 1rem 0;
     }
 }

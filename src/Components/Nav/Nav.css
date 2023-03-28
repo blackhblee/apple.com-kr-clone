@@ -7,20 +7,20 @@
     right: 0;
     width: 100%;
     z-index: 999;
-    font-size: 0.76rem;
-    font-weight: 300;
-    max-height: 44px;
-    min-height: 44px;
+    font-size: 0.6rem;
+    font-weight: 200;
+    max-height: 39px;
+    min-height: 39px;
 }
 
 .nav-items {
-    font-family: 'Pretendard-Thin';
+    font-weight: 100;
     display: flex;
     justify-content: space-between;
     align-items: center;
-    max-width: 1030px;
+    max-width: 930px;
     padding: 0 23px;
-    height: 44px;
+    height: 39px;
     width: 100%;
     margin: 0 auto;
 }
